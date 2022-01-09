@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+</head>
+<body>
+    <h1>
+        <strong>Fulano de Tal</strong>
+    </h1>
+    <br>
+        <p><strong>Cidade:</strong>Rio de Janeiro </p> 
+        <p><strong>Telefone:</strong>(21)9999-9999</p>
+        <p><strong>Email:</strong><a href="mailto:contato@google.com">contato@google.com</a></p>
+    <hr> 
+    
+    <br> <br> <br>
+
+    <h2>
+        <strong>Objetivo</strong>
+    </h2>
+        <p>Chegar a 100.000 inscritos no Youtube.</p> <br> <br> <br> <br>
+
+    <h2>
+        <strong>Formação</strong>
+    </h2>
+        <p><strong>Graduação em Engenharia de Software</strong></p> 
+        <p>Universidade de TI do Estado do Rio de Janeiro</p> <br> 
+        <p><strong>Graduação em bola de gude</strong></p> 
+        <p>Praça da esquina</p> 
+    <br> <br> <br> <br> 
+
+    <h2>
+        <strong>Experiência</strong>
+    </h2>
+
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7dGuxHb42zCRa8XI5l4LuAHaEK%26pid%3DApi&f=1" alt="logo youtube">
+        <p><strong>Provedor de conteúdo</strong> - <a href ="https://www.youtube.com/">Youtube</a> </p> <br>
+        <p>Criar conteúdo sobre programação e ajudar outras pessoas a usarem programação no dia a dia.</p> 
+    <br> <br> 
+
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.yS7gXY1JGZqomKI9eDRzCgHaEK%26pid%3DApi&f=1" alt="logo microsoft">
+        <p><strong>Consultor Pleno - Microsoft</strong></p> <br> <br>
+        <p>Responsável por construir soluções de análise gerencial, para plataforma XPTO da Microsoft.</p>
+    <br> <br> 
+
+    <h2>
+        <strong>Habilidades</strong>
+    </h2>
+
+    <ul>
+        <li>Javascript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Objective-C</li>
+        <li>Swift</li>
+        <li>Java</li>
+        <li>C/C++</li>
+    </ul>
+
+</body>
+</html>
