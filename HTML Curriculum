@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        <strong>Fulano de Tal</strong>
+        Fulano de Tal
     </h1>
     <br>
         <p><strong>Cidade:</strong>Rio de Janeiro </p> 
@@ -19,12 +19,12 @@
     <br> <br> <br>
 
     <h2>
-        <strong>Objetivo</strong>
+        Objetivo
     </h2>
         <p>Chegar a 100.000 inscritos no Youtube.</p> <br> <br> <br> <br>
 
     <h2>
-        <strong>Formação</strong>
+        Formação
     </h2>
         <p><strong>Graduação em Engenharia de Software</strong></p> 
         <p>Universidade de TI do Estado do Rio de Janeiro</p> <br> 
@@ -33,7 +33,7 @@
     <br> <br> <br> <br> 
 
     <h2>
-        <strong>Experiência</strong>
+        Experiência
     </h2>
 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7dGuxHb42zCRa8XI5l4LuAHaEK%26pid%3DApi&f=1" alt="logo youtube">
@@ -47,7 +47,7 @@
     <br> <br> 
 
     <h2>
-        <strong>Habilidades</strong>
+        Habilidades
     </h2>
 
     <ul>
